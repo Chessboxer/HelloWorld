@@ -4,7 +4,7 @@ using System.Text;
 
 namespace HelloWorld
 {
-    class Surv ey
+    class Survey
     {
         public void RunSurvey()
         {
